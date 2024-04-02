@@ -1,4 +1,4 @@
-- Hi, I'm Mack
+- Hi, I'm Mackenzie
 - I have a bachelor's degree in Electrical Engineering
 - I'm interested in coding as a fun hobby
 - I'm currently learning how to code a Discord bot using JavaScript
